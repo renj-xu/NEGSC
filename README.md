@@ -11,4 +11,10 @@ A self-supervised graph representing learning method named NEGSC, is proposed to
 
 Four kinds of NetFlow datasets were selected, including **NF-BoT-IoT**, **NF-CSE-CIC-IDS2018**, **NF-BoT-IoT-v2**, and **NF-CSE-CIC-IDS2018- v2**. All these datasets support binary and multi-class classification predictions.
 
-URL:  [https://staff.itee.uq.edu.au/marius/NIDS_datasets/](https://staff.itee.uq.edu.au/marius/NIDS_datasets/).
+*URL*:  
+[https://staff.itee.uq.edu.au/marius/NIDS_datasets/](https://staff.itee.uq.edu.au/marius/NIDS_datasets/).
+
+*References*:  
+[1] Sarhan M, Layeghy S, Moustafa N, et al. Netflow datasets for machine learning-based network intrusion detection systems[C]. Big Data Technologies and Applications: 10th EAI International Conference, BDTA 2020, and 13th EAI International Conference on Wireless Internet, WiCON 2020, Virtual Event, December 11, 2020, Proceedings 10. Springer International Publishing. 2021: 117-135.
+
+[2] Sarhan M, Layeghy S, Portmann M. Towards a standard feature set for network intrusion detection system datasets[J]. Mobile networks and applications. 2022: 1-14.
