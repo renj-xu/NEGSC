@@ -11,7 +11,7 @@ A self-supervised graph representing learning method named NEGSC, is proposed to
 
 ## Installation
 
-•[Pytorch](https://pytorch.org/)
+•[Pytorch](https://pytorch.org/)  
 •[DGL](https://www.dgl.ai/)
 
 ## NIDS dataset
