@@ -7,7 +7,14 @@ A self-supervised graph representing learning method named NEGSC, is proposed to
 
 • We introduced this unsupervised method into the multi-classification task of network intrusion detection for the first time, and achieved the results with potential application in both the multi-classification and binary classification tasks.
 
-# NIDS dataset
+# Preliminaries
+
+## Installation
+
+•[Pytorch](https://pytorch.org/)
+•[DGL](https://www.dgl.ai/)
+
+## NIDS dataset
 
 Four kinds of NetFlow datasets were selected, including **NF-BoT-IoT**, **NF-CSE-CIC-IDS2018**, **NF-BoT-IoT-v2**, and **NF-CSE-CIC-IDS2018- v2**. All these datasets support binary and multi-class classification predictions.
 
