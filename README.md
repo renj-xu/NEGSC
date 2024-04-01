@@ -9,7 +9,7 @@ A self-supervised graph representing learning method named NEGSC, is proposed to
 
 # Preliminaries
 
-## Installation
+## Framework
 
 •[Pytorch](https://pytorch.org/)<br />
 •[DGL](https://www.dgl.ai/)
