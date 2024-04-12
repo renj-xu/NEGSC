@@ -30,6 +30,9 @@ Virtual Event, December 11, 2020, Proceedings 10. Springer International Publish
 [2] Sarhan M, Layeghy S, Portmann M. Towards a standard feature set for
 network intrusion detection system datasets[J]. Mobile networks and applications. 2022: 1-14.
 
+# Run
+We have uploaded Pre-trained Models and sample data, which can be directly tested by running test.ipynb.
+
 # Environments
 
 • *Python version*: 3.10.8 (main, Nov  4 2022, 13:48:29) [GCC 11.2.0];<br />
