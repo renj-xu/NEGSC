@@ -60,7 +60,7 @@ We have uploaded Pre-trained Models and sample data, which can be directly teste
 
 •*Address: Central South University of Forestry and Technology, 498 Shaoshan South Road, Tianxin District, Changsha, Hunan Province. China*;
 
-•*Name&Email: Renjie Xu email: 446364661@qq.com*. <br />
+•*Name&Email: Renjie Xu email: renjiexu@csuft.edu.cn*. <br />
 
 •The doi of our paper will be upload later..
 
